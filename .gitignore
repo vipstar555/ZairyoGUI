@@ -339,3 +339,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database 
 healthchecksdb
+
+# ツイッター情報
+metadata/
+# 非公開情報
+Metadata.config
